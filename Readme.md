@@ -1,2 +1,2 @@
-Trying to us Polyvox and Transvoxels
+Trying to use Polyvox and Transvoxels
 ** scratches head **
